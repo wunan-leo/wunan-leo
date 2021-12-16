@@ -1,4 +1,4 @@
-### Hi there is leoy!👋
+### 🌴 Hi there is leoy!👋
 
 <!--
 **wunan-leo/wunan-leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,11 +11,10 @@ Here are some ideas to get you started:
 - 😄 Chat with me !~
 - ⚡ Fun fact: ...
 -->
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+🌴
 - 🔭 I’m currently working on Tongji University...          
 - 🌱 I’m currently learning SE ...
 - 🤔 I’m looking for help with SE and DS ...
 - 💬 QQ: 1421877537
 - 📫 Email: 1421877537@qq.com
-- 😄 Chat with me !~\n
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+- 😄 Chat with me !~
