@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with SE and DS ...
 - 💬 QQ: 1421877537
 - 📫 Email: 1421877537@qq.com
-- 😄 Chat with me !~
+- 😄 Chat with me !~\n
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
