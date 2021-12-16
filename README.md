@@ -1,4 +1,4 @@
-### 🌴 Hi there is leoy!👋
+### 🌴 Hi this is leoy!👋
 
 <!--
 **wunan-leo/wunan-leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
